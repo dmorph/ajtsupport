@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://ajtsupport.com/index.html</loc>
+    <lastmod>2018-07-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ajtsupport.com/images/logo-web.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ajtsupport.com/images/independent-out-reachers-type.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ajtsupport.com/about.html</loc>
+    <lastmod>2018-07-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ajtsupport.com/images/logo-web.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ajtsupport.com/images/headshot%20grayscale%20cropped.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ajtsupport.com/images/headshot%20grayscale%20cropped637x425.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ajtsupport.com/images/headshot%20grayscale%20cropped573x382.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ajtsupport.com/images/headshot%20grayscale%20cropped382x255.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ajtsupport.com/images/headshot%20grayscale%20cropped459x306.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
