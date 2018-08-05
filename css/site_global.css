@@ -3,10 +3,10 @@
     src: url('../font/regular_pro.otf') format('opentype') 
  }
 
- @font-face {
+@font-face {
     font-family: 'mono_pro';
     src: url('../font/mono_pro.otf') format('opentype') 
- }
+}
 
 html{
     min-height:100%;
@@ -78,7 +78,7 @@ input,button,textarea,select,optgroup,option{
     -webkit-border-radius:0;
 }
 body{
-    font-family:'regular_pro', 'comicsans';
+    font-family:regular_pro,sans-serif;
     text-align:left;
     font-size:14px;
     line-height:17px;
@@ -155,19 +155,19 @@ a.nontext{
     padding:0px;
 }
 .Paragraph-Helvetica{
-    font-family:'regular_pro', 'Comic Sans MS';
+    font-family:regular_pro, sans-serif;
     font-size:21px;
     line-height:29px;
     padding:0px;
 }
 .Pull-Out-Times{
-    font-family:mono-pro, serif;
+    font-family:mono_pro, sans-serif;
     font-size:28px;
     line-height:40px;
     padding:0px;
 }
 .Tabs-Times{
-    font-family:mono-pro, serif;
+    font-family:mono_pro, sans-serif;
     font-size:17px;
     text-align:right;
     padding:0px;
